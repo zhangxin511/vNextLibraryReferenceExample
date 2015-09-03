@@ -1,0 +1,16 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "SampleWebApi.DomainModel Class Library",
+  "authors": [ "oigbokwe" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "SampleWebApi.DDD": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}

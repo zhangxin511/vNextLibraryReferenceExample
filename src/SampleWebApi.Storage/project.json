@@ -1,0 +1,21 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "SampleWebApi.Storage Class Library",
+  "authors": [ "oigbokwe" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "Newtonsoft.Json": "7.0.1",
+    "protobuf-net": "2.0.0.668",
+    "rethinkdb-net": "0.11.0",
+    "rethinkdb-net-newtonsoft": "0.11.0",
+    "SampleWebApi.DDD": "1.0.0-*",
+    "SampleWebApi.DomainModel": "1.0.0-*"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
